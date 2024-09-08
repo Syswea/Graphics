@@ -1,0 +1,1 @@
+/usr/bin/g++  -O3 -fopenmp -O3 -DNDEBUG CMakeFiles/Renderer.dir/src/BVH.cpp.o CMakeFiles/Renderer.dir/src/Renderer.cpp.o CMakeFiles/Renderer.dir/src/Scene.cpp.o CMakeFiles/Renderer.dir/src/Vector.cpp.o CMakeFiles/Renderer.dir/src/main.cpp.o -o Renderer 
