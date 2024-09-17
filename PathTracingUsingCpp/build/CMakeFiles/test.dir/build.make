@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/syswea/Workspace/PathTracingUsingCpp
+CMAKE_SOURCE_DIR = /home/syswea/Workspace/Graphics/PathTracingUsingCpp
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/syswea/Workspace/PathTracingUsingCpp/build
+CMAKE_BINARY_DIR = /home/syswea/Workspace/Graphics/PathTracingUsingCpp/build
 
 # Utility rule file for test.
 
@@ -67,8 +67,8 @@ include CMakeFiles/test.dir/compiler_depend.make
 include CMakeFiles/test.dir/progress.make
 
 CMakeFiles/test: Renderer
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/syswea/Workspace/PathTracingUsingCpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Running the Renderer executable for testing"
-	/home/syswea/Workspace/PathTracingUsingCpp/build/Renderer
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/syswea/Workspace/Graphics/PathTracingUsingCpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Running the Renderer executable for testing"
+	/home/syswea/Workspace/Graphics/PathTracingUsingCpp/build/Renderer
 
 test: CMakeFiles/test
 test: CMakeFiles/test.dir/build.make
@@ -83,6 +83,6 @@ CMakeFiles/test.dir/clean:
 .PHONY : CMakeFiles/test.dir/clean
 
 CMakeFiles/test.dir/depend:
-	cd /home/syswea/Workspace/PathTracingUsingCpp/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/syswea/Workspace/PathTracingUsingCpp /home/syswea/Workspace/PathTracingUsingCpp /home/syswea/Workspace/PathTracingUsingCpp/build /home/syswea/Workspace/PathTracingUsingCpp/build /home/syswea/Workspace/PathTracingUsingCpp/build/CMakeFiles/test.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/syswea/Workspace/Graphics/PathTracingUsingCpp/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/syswea/Workspace/Graphics/PathTracingUsingCpp /home/syswea/Workspace/Graphics/PathTracingUsingCpp /home/syswea/Workspace/Graphics/PathTracingUsingCpp/build /home/syswea/Workspace/Graphics/PathTracingUsingCpp/build /home/syswea/Workspace/Graphics/PathTracingUsingCpp/build/CMakeFiles/test.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/test.dir/depend
 

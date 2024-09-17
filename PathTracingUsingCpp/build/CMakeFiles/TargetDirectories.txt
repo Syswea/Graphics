@@ -1,4 +1,4 @@
-/home/syswea/Workspace/PathTracingUsingCpp/build/CMakeFiles/Renderer.dir
-/home/syswea/Workspace/PathTracingUsingCpp/build/CMakeFiles/test.dir
-/home/syswea/Workspace/PathTracingUsingCpp/build/CMakeFiles/edit_cache.dir
-/home/syswea/Workspace/PathTracingUsingCpp/build/CMakeFiles/rebuild_cache.dir
+/home/syswea/Workspace/Graphics/PathTracingUsingCpp/build/CMakeFiles/Renderer.dir
+/home/syswea/Workspace/Graphics/PathTracingUsingCpp/build/CMakeFiles/test.dir
+/home/syswea/Workspace/Graphics/PathTracingUsingCpp/build/CMakeFiles/edit_cache.dir
+/home/syswea/Workspace/Graphics/PathTracingUsingCpp/build/CMakeFiles/rebuild_cache.dir

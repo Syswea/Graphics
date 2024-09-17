@@ -1,7 +1,7 @@
 CMakeFiles/Renderer.dir/src/Vector.cpp.o: \
- /home/syswea/Workspace/PathTracingUsingCpp/src/Vector.cpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Vector.cpp \
  /usr/include/stdc-predef.h \
- /home/syswea/Workspace/PathTracingUsingCpp/src/Vector.hpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Vector.hpp \
  /usr/include/c++/13/iostream /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \

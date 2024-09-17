@@ -1,5 +1,5 @@
 CMakeFiles/Renderer.dir/src/Renderer.cpp.o: \
- /home/syswea/Workspace/PathTracingUsingCpp/src/Renderer.cpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Renderer.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/13/fstream \
  /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
@@ -173,12 +173,12 @@ CMakeFiles/Renderer.dir/src/Renderer.cpp.o: \
  /usr/include/c++/13/bits/parse_numbers.h /usr/include/c++/13/mutex \
  /usr/include/c++/13/bits/std_mutex.h \
  /usr/include/c++/13/bits/unique_lock.h \
- /home/syswea/Workspace/PathTracingUsingCpp/src/Scene.hpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Scene.hpp \
  /usr/include/c++/13/vector /usr/include/c++/13/bits/stl_uninitialized.h \
  /usr/include/c++/13/bits/stl_vector.h \
  /usr/include/c++/13/bits/stl_bvector.h \
  /usr/include/c++/13/bits/vector.tcc \
- /home/syswea/Workspace/PathTracingUsingCpp/src/Vector.hpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Vector.hpp \
  /usr/include/c++/13/iostream /usr/include/c++/13/cmath \
  /usr/include/math.h /usr/include/x86_64-linux-gnu/bits/math-vector.h \
  /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
@@ -208,21 +208,21 @@ CMakeFiles/Renderer.dir/src/Renderer.cpp.o: \
  /usr/include/c++/13/bits/stl_tempbuf.h \
  /usr/include/c++/13/pstl/glue_algorithm_defs.h \
  /usr/include/c++/13/pstl/execution_defs.h \
- /home/syswea/Workspace/PathTracingUsingCpp/src/Object.hpp \
- /home/syswea/Workspace/PathTracingUsingCpp/src/global.hpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Object.hpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/global.hpp \
  /usr/include/c++/13/random /usr/include/c++/13/bits/random.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/opt_random.h \
  /usr/include/c++/13/bits/random.tcc /usr/include/c++/13/numeric \
  /usr/include/c++/13/bits/stl_numeric.h \
  /usr/include/c++/13/pstl/glue_numeric_defs.h \
- /home/syswea/Workspace/PathTracingUsingCpp/src/Bounds3.hpp \
- /home/syswea/Workspace/PathTracingUsingCpp/src/Ray.hpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Bounds3.hpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Ray.hpp \
  /usr/include/c++/13/array /usr/include/c++/13/compare \
- /home/syswea/Workspace/PathTracingUsingCpp/src/Intersection.hpp \
- /home/syswea/Workspace/PathTracingUsingCpp/src/Material.hpp \
- /home/syswea/Workspace/PathTracingUsingCpp/src/Light.hpp \
- /home/syswea/Workspace/PathTracingUsingCpp/src/AreaLight.hpp \
- /home/syswea/Workspace/PathTracingUsingCpp/src/BVH.hpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Intersection.hpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Material.hpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Light.hpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/AreaLight.hpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/BVH.hpp \
  /usr/include/c++/13/atomic /usr/include/c++/13/bits/atomic_base.h \
  /usr/include/c++/13/bits/atomic_lockfree_defines.h \
  /usr/include/c++/13/memory \
@@ -235,4 +235,4 @@ CMakeFiles/Renderer.dir/src/Renderer.cpp.o: \
  /usr/include/c++/13/bits/shared_ptr_atomic.h \
  /usr/include/c++/13/backward/auto_ptr.h \
  /usr/include/c++/13/pstl/glue_memory_defs.h \
- /home/syswea/Workspace/PathTracingUsingCpp/src/Renderer.hpp
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Renderer.hpp

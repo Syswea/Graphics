@@ -1,8 +1,8 @@
 CMakeFiles/Renderer.dir/src/main.cpp.o: \
- /home/syswea/Workspace/PathTracingUsingCpp/src/main.cpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/main.cpp \
  /usr/include/stdc-predef.h \
- /home/syswea/Workspace/PathTracingUsingCpp/src/Renderer.hpp \
- /home/syswea/Workspace/PathTracingUsingCpp/src/Scene.hpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Renderer.hpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Scene.hpp \
  /usr/include/c++/13/vector /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
@@ -53,7 +53,7 @@ CMakeFiles/Renderer.dir/src/main.cpp.o: \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
  /usr/include/c++/13/bits/uses_allocator.h \
  /usr/include/c++/13/bits/uses_allocator_args.h /usr/include/c++/13/tuple \
- /home/syswea/Workspace/PathTracingUsingCpp/src/Vector.hpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Vector.hpp \
  /usr/include/c++/13/iostream /usr/include/c++/13/ostream \
  /usr/include/c++/13/ios /usr/include/c++/13/iosfwd \
  /usr/include/c++/13/bits/stringfwd.h /usr/include/c++/13/bits/postypes.h \
@@ -193,8 +193,8 @@ CMakeFiles/Renderer.dir/src/main.cpp.o: \
  /usr/include/c++/13/bits/stl_tempbuf.h \
  /usr/include/c++/13/pstl/glue_algorithm_defs.h \
  /usr/include/c++/13/pstl/execution_defs.h \
- /home/syswea/Workspace/PathTracingUsingCpp/src/Object.hpp \
- /home/syswea/Workspace/PathTracingUsingCpp/src/global.hpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Object.hpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/global.hpp \
  /usr/include/c++/13/random /usr/include/c++/13/cstdint \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
@@ -204,14 +204,14 @@ CMakeFiles/Renderer.dir/src/main.cpp.o: \
  /usr/include/c++/13/bits/random.tcc /usr/include/c++/13/numeric \
  /usr/include/c++/13/bits/stl_numeric.h \
  /usr/include/c++/13/pstl/glue_numeric_defs.h \
- /home/syswea/Workspace/PathTracingUsingCpp/src/Bounds3.hpp \
- /home/syswea/Workspace/PathTracingUsingCpp/src/Ray.hpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Bounds3.hpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Ray.hpp \
  /usr/include/c++/13/array /usr/include/c++/13/compare \
- /home/syswea/Workspace/PathTracingUsingCpp/src/Intersection.hpp \
- /home/syswea/Workspace/PathTracingUsingCpp/src/Material.hpp \
- /home/syswea/Workspace/PathTracingUsingCpp/src/Light.hpp \
- /home/syswea/Workspace/PathTracingUsingCpp/src/AreaLight.hpp \
- /home/syswea/Workspace/PathTracingUsingCpp/src/BVH.hpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Intersection.hpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Material.hpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Light.hpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/AreaLight.hpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/BVH.hpp \
  /usr/include/c++/13/atomic /usr/include/c++/13/bits/atomic_base.h \
  /usr/include/c++/13/bits/atomic_lockfree_defines.h \
  /usr/include/c++/13/memory \
@@ -225,8 +225,8 @@ CMakeFiles/Renderer.dir/src/main.cpp.o: \
  /usr/include/c++/13/bits/shared_ptr_atomic.h \
  /usr/include/c++/13/backward/auto_ptr.h \
  /usr/include/c++/13/pstl/glue_memory_defs.h /usr/include/c++/13/ctime \
- /home/syswea/Workspace/PathTracingUsingCpp/src/Triangle.hpp \
- /home/syswea/Workspace/PathTracingUsingCpp/src/OBJ_Loader.hpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Triangle.hpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/OBJ_Loader.hpp \
  /usr/include/c++/13/optional \
  /usr/include/c++/13/bits/enable_special_members.h \
  /usr/include/c++/13/fstream /usr/include/c++/13/bits/codecvt.h \
@@ -234,6 +234,6 @@ CMakeFiles/Renderer.dir/src/main.cpp.o: \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++io.h \
  /usr/include/c++/13/bits/fstream.tcc /usr/include/c++/13/math.h \
  /usr/include/c++/13/cassert /usr/include/assert.h \
- /home/syswea/Workspace/PathTracingUsingCpp/src/Sphere.hpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Sphere.hpp \
  /usr/include/c++/13/chrono /usr/include/c++/13/bits/chrono.h \
  /usr/include/c++/13/ratio /usr/include/c++/13/bits/parse_numbers.h

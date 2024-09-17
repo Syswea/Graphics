@@ -1,5 +1,5 @@
 CMakeFiles/Renderer.dir/src/BVH.cpp.o: \
- /home/syswea/Workspace/PathTracingUsingCpp/src/BVH.cpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/BVH.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/13/algorithm \
  /usr/include/c++/13/bits/stl_algobase.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
@@ -77,7 +77,7 @@ CMakeFiles/Renderer.dir/src/BVH.cpp.o: \
  /usr/include/c++/13/pstl/glue_algorithm_defs.h \
  /usr/include/c++/13/pstl/execution_defs.h /usr/include/c++/13/cassert \
  /usr/include/assert.h \
- /home/syswea/Workspace/PathTracingUsingCpp/src/BVH.hpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/BVH.hpp \
  /usr/include/c++/13/atomic /usr/include/c++/13/bits/atomic_base.h \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/wchar.h \
@@ -144,8 +144,8 @@ CMakeFiles/Renderer.dir/src/BVH.cpp.o: \
  /usr/include/c++/13/bits/shared_ptr_atomic.h \
  /usr/include/c++/13/backward/auto_ptr.h \
  /usr/include/c++/13/pstl/glue_memory_defs.h /usr/include/c++/13/ctime \
- /home/syswea/Workspace/PathTracingUsingCpp/src/Object.hpp \
- /home/syswea/Workspace/PathTracingUsingCpp/src/Vector.hpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Object.hpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Vector.hpp \
  /usr/include/c++/13/iostream /usr/include/c++/13/ostream \
  /usr/include/c++/13/ios /usr/include/c++/13/bits/char_traits.h \
  /usr/include/c++/13/bits/localefwd.h \
@@ -210,15 +210,15 @@ CMakeFiles/Renderer.dir/src/BVH.cpp.o: \
  /usr/include/c++/13/tr1/poly_hermite.tcc \
  /usr/include/c++/13/tr1/poly_laguerre.tcc \
  /usr/include/c++/13/tr1/riemann_zeta.tcc \
- /home/syswea/Workspace/PathTracingUsingCpp/src/global.hpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/global.hpp \
  /usr/include/c++/13/random /usr/include/c++/13/cstdint \
  /usr/include/c++/13/bits/random.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/opt_random.h \
  /usr/include/c++/13/bits/random.tcc /usr/include/c++/13/numeric \
  /usr/include/c++/13/bits/stl_numeric.h \
  /usr/include/c++/13/pstl/glue_numeric_defs.h \
- /home/syswea/Workspace/PathTracingUsingCpp/src/Bounds3.hpp \
- /home/syswea/Workspace/PathTracingUsingCpp/src/Ray.hpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Bounds3.hpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Ray.hpp \
  /usr/include/c++/13/array /usr/include/c++/13/compare \
- /home/syswea/Workspace/PathTracingUsingCpp/src/Intersection.hpp \
- /home/syswea/Workspace/PathTracingUsingCpp/src/Material.hpp
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Intersection.hpp \
+ /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Material.hpp

@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/syswea/Workspace/PathTracingUsingCpp
+CMAKE_SOURCE_DIR = /home/syswea/Workspace/Graphics/PathTracingUsingCpp
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/syswea/Workspace/PathTracingUsingCpp/build
+CMAKE_BINARY_DIR = /home/syswea/Workspace/Graphics/PathTracingUsingCpp/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Renderer.dir/depend.make
@@ -70,74 +70,74 @@ include CMakeFiles/Renderer.dir/progress.make
 include CMakeFiles/Renderer.dir/flags.make
 
 CMakeFiles/Renderer.dir/src/BVH.cpp.o: CMakeFiles/Renderer.dir/flags.make
-CMakeFiles/Renderer.dir/src/BVH.cpp.o: /home/syswea/Workspace/PathTracingUsingCpp/src/BVH.cpp
+CMakeFiles/Renderer.dir/src/BVH.cpp.o: /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/BVH.cpp
 CMakeFiles/Renderer.dir/src/BVH.cpp.o: CMakeFiles/Renderer.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/syswea/Workspace/PathTracingUsingCpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Renderer.dir/src/BVH.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Renderer.dir/src/BVH.cpp.o -MF CMakeFiles/Renderer.dir/src/BVH.cpp.o.d -o CMakeFiles/Renderer.dir/src/BVH.cpp.o -c /home/syswea/Workspace/PathTracingUsingCpp/src/BVH.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/syswea/Workspace/Graphics/PathTracingUsingCpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Renderer.dir/src/BVH.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Renderer.dir/src/BVH.cpp.o -MF CMakeFiles/Renderer.dir/src/BVH.cpp.o.d -o CMakeFiles/Renderer.dir/src/BVH.cpp.o -c /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/BVH.cpp
 
 CMakeFiles/Renderer.dir/src/BVH.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Renderer.dir/src/BVH.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/syswea/Workspace/PathTracingUsingCpp/src/BVH.cpp > CMakeFiles/Renderer.dir/src/BVH.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/BVH.cpp > CMakeFiles/Renderer.dir/src/BVH.cpp.i
 
 CMakeFiles/Renderer.dir/src/BVH.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Renderer.dir/src/BVH.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/syswea/Workspace/PathTracingUsingCpp/src/BVH.cpp -o CMakeFiles/Renderer.dir/src/BVH.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/BVH.cpp -o CMakeFiles/Renderer.dir/src/BVH.cpp.s
 
 CMakeFiles/Renderer.dir/src/Renderer.cpp.o: CMakeFiles/Renderer.dir/flags.make
-CMakeFiles/Renderer.dir/src/Renderer.cpp.o: /home/syswea/Workspace/PathTracingUsingCpp/src/Renderer.cpp
+CMakeFiles/Renderer.dir/src/Renderer.cpp.o: /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Renderer.cpp
 CMakeFiles/Renderer.dir/src/Renderer.cpp.o: CMakeFiles/Renderer.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/syswea/Workspace/PathTracingUsingCpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Renderer.dir/src/Renderer.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Renderer.dir/src/Renderer.cpp.o -MF CMakeFiles/Renderer.dir/src/Renderer.cpp.o.d -o CMakeFiles/Renderer.dir/src/Renderer.cpp.o -c /home/syswea/Workspace/PathTracingUsingCpp/src/Renderer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/syswea/Workspace/Graphics/PathTracingUsingCpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Renderer.dir/src/Renderer.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Renderer.dir/src/Renderer.cpp.o -MF CMakeFiles/Renderer.dir/src/Renderer.cpp.o.d -o CMakeFiles/Renderer.dir/src/Renderer.cpp.o -c /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Renderer.cpp
 
 CMakeFiles/Renderer.dir/src/Renderer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Renderer.dir/src/Renderer.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/syswea/Workspace/PathTracingUsingCpp/src/Renderer.cpp > CMakeFiles/Renderer.dir/src/Renderer.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Renderer.cpp > CMakeFiles/Renderer.dir/src/Renderer.cpp.i
 
 CMakeFiles/Renderer.dir/src/Renderer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Renderer.dir/src/Renderer.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/syswea/Workspace/PathTracingUsingCpp/src/Renderer.cpp -o CMakeFiles/Renderer.dir/src/Renderer.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Renderer.cpp -o CMakeFiles/Renderer.dir/src/Renderer.cpp.s
 
 CMakeFiles/Renderer.dir/src/Scene.cpp.o: CMakeFiles/Renderer.dir/flags.make
-CMakeFiles/Renderer.dir/src/Scene.cpp.o: /home/syswea/Workspace/PathTracingUsingCpp/src/Scene.cpp
+CMakeFiles/Renderer.dir/src/Scene.cpp.o: /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Scene.cpp
 CMakeFiles/Renderer.dir/src/Scene.cpp.o: CMakeFiles/Renderer.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/syswea/Workspace/PathTracingUsingCpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Renderer.dir/src/Scene.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Renderer.dir/src/Scene.cpp.o -MF CMakeFiles/Renderer.dir/src/Scene.cpp.o.d -o CMakeFiles/Renderer.dir/src/Scene.cpp.o -c /home/syswea/Workspace/PathTracingUsingCpp/src/Scene.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/syswea/Workspace/Graphics/PathTracingUsingCpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Renderer.dir/src/Scene.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Renderer.dir/src/Scene.cpp.o -MF CMakeFiles/Renderer.dir/src/Scene.cpp.o.d -o CMakeFiles/Renderer.dir/src/Scene.cpp.o -c /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Scene.cpp
 
 CMakeFiles/Renderer.dir/src/Scene.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Renderer.dir/src/Scene.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/syswea/Workspace/PathTracingUsingCpp/src/Scene.cpp > CMakeFiles/Renderer.dir/src/Scene.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Scene.cpp > CMakeFiles/Renderer.dir/src/Scene.cpp.i
 
 CMakeFiles/Renderer.dir/src/Scene.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Renderer.dir/src/Scene.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/syswea/Workspace/PathTracingUsingCpp/src/Scene.cpp -o CMakeFiles/Renderer.dir/src/Scene.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Scene.cpp -o CMakeFiles/Renderer.dir/src/Scene.cpp.s
 
 CMakeFiles/Renderer.dir/src/Vector.cpp.o: CMakeFiles/Renderer.dir/flags.make
-CMakeFiles/Renderer.dir/src/Vector.cpp.o: /home/syswea/Workspace/PathTracingUsingCpp/src/Vector.cpp
+CMakeFiles/Renderer.dir/src/Vector.cpp.o: /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Vector.cpp
 CMakeFiles/Renderer.dir/src/Vector.cpp.o: CMakeFiles/Renderer.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/syswea/Workspace/PathTracingUsingCpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Renderer.dir/src/Vector.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Renderer.dir/src/Vector.cpp.o -MF CMakeFiles/Renderer.dir/src/Vector.cpp.o.d -o CMakeFiles/Renderer.dir/src/Vector.cpp.o -c /home/syswea/Workspace/PathTracingUsingCpp/src/Vector.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/syswea/Workspace/Graphics/PathTracingUsingCpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Renderer.dir/src/Vector.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Renderer.dir/src/Vector.cpp.o -MF CMakeFiles/Renderer.dir/src/Vector.cpp.o.d -o CMakeFiles/Renderer.dir/src/Vector.cpp.o -c /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Vector.cpp
 
 CMakeFiles/Renderer.dir/src/Vector.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Renderer.dir/src/Vector.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/syswea/Workspace/PathTracingUsingCpp/src/Vector.cpp > CMakeFiles/Renderer.dir/src/Vector.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Vector.cpp > CMakeFiles/Renderer.dir/src/Vector.cpp.i
 
 CMakeFiles/Renderer.dir/src/Vector.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Renderer.dir/src/Vector.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/syswea/Workspace/PathTracingUsingCpp/src/Vector.cpp -o CMakeFiles/Renderer.dir/src/Vector.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Vector.cpp -o CMakeFiles/Renderer.dir/src/Vector.cpp.s
 
 CMakeFiles/Renderer.dir/src/main.cpp.o: CMakeFiles/Renderer.dir/flags.make
-CMakeFiles/Renderer.dir/src/main.cpp.o: /home/syswea/Workspace/PathTracingUsingCpp/src/main.cpp
+CMakeFiles/Renderer.dir/src/main.cpp.o: /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/main.cpp
 CMakeFiles/Renderer.dir/src/main.cpp.o: CMakeFiles/Renderer.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/syswea/Workspace/PathTracingUsingCpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Renderer.dir/src/main.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Renderer.dir/src/main.cpp.o -MF CMakeFiles/Renderer.dir/src/main.cpp.o.d -o CMakeFiles/Renderer.dir/src/main.cpp.o -c /home/syswea/Workspace/PathTracingUsingCpp/src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/syswea/Workspace/Graphics/PathTracingUsingCpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Renderer.dir/src/main.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Renderer.dir/src/main.cpp.o -MF CMakeFiles/Renderer.dir/src/main.cpp.o.d -o CMakeFiles/Renderer.dir/src/main.cpp.o -c /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/main.cpp
 
 CMakeFiles/Renderer.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Renderer.dir/src/main.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/syswea/Workspace/PathTracingUsingCpp/src/main.cpp > CMakeFiles/Renderer.dir/src/main.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/main.cpp > CMakeFiles/Renderer.dir/src/main.cpp.i
 
 CMakeFiles/Renderer.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Renderer.dir/src/main.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/syswea/Workspace/PathTracingUsingCpp/src/main.cpp -o CMakeFiles/Renderer.dir/src/main.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/main.cpp -o CMakeFiles/Renderer.dir/src/main.cpp.s
 
 # Object files for target Renderer
 Renderer_OBJECTS = \
@@ -157,7 +157,7 @@ Renderer: CMakeFiles/Renderer.dir/src/Vector.cpp.o
 Renderer: CMakeFiles/Renderer.dir/src/main.cpp.o
 Renderer: CMakeFiles/Renderer.dir/build.make
 Renderer: CMakeFiles/Renderer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/syswea/Workspace/PathTracingUsingCpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable Renderer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/syswea/Workspace/Graphics/PathTracingUsingCpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable Renderer"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Renderer.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -169,6 +169,6 @@ CMakeFiles/Renderer.dir/clean:
 .PHONY : CMakeFiles/Renderer.dir/clean
 
 CMakeFiles/Renderer.dir/depend:
-	cd /home/syswea/Workspace/PathTracingUsingCpp/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/syswea/Workspace/PathTracingUsingCpp /home/syswea/Workspace/PathTracingUsingCpp /home/syswea/Workspace/PathTracingUsingCpp/build /home/syswea/Workspace/PathTracingUsingCpp/build /home/syswea/Workspace/PathTracingUsingCpp/build/CMakeFiles/Renderer.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/syswea/Workspace/Graphics/PathTracingUsingCpp/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/syswea/Workspace/Graphics/PathTracingUsingCpp /home/syswea/Workspace/Graphics/PathTracingUsingCpp /home/syswea/Workspace/Graphics/PathTracingUsingCpp/build /home/syswea/Workspace/Graphics/PathTracingUsingCpp/build /home/syswea/Workspace/Graphics/PathTracingUsingCpp/build/CMakeFiles/Renderer.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/Renderer.dir/depend
 

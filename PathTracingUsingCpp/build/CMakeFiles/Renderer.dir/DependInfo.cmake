@@ -8,11 +8,11 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/syswea/Workspace/PathTracingUsingCpp/src/BVH.cpp" "CMakeFiles/Renderer.dir/src/BVH.cpp.o" "gcc" "CMakeFiles/Renderer.dir/src/BVH.cpp.o.d"
-  "/home/syswea/Workspace/PathTracingUsingCpp/src/Renderer.cpp" "CMakeFiles/Renderer.dir/src/Renderer.cpp.o" "gcc" "CMakeFiles/Renderer.dir/src/Renderer.cpp.o.d"
-  "/home/syswea/Workspace/PathTracingUsingCpp/src/Scene.cpp" "CMakeFiles/Renderer.dir/src/Scene.cpp.o" "gcc" "CMakeFiles/Renderer.dir/src/Scene.cpp.o.d"
-  "/home/syswea/Workspace/PathTracingUsingCpp/src/Vector.cpp" "CMakeFiles/Renderer.dir/src/Vector.cpp.o" "gcc" "CMakeFiles/Renderer.dir/src/Vector.cpp.o.d"
-  "/home/syswea/Workspace/PathTracingUsingCpp/src/main.cpp" "CMakeFiles/Renderer.dir/src/main.cpp.o" "gcc" "CMakeFiles/Renderer.dir/src/main.cpp.o.d"
+  "/home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/BVH.cpp" "CMakeFiles/Renderer.dir/src/BVH.cpp.o" "gcc" "CMakeFiles/Renderer.dir/src/BVH.cpp.o.d"
+  "/home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Renderer.cpp" "CMakeFiles/Renderer.dir/src/Renderer.cpp.o" "gcc" "CMakeFiles/Renderer.dir/src/Renderer.cpp.o.d"
+  "/home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Scene.cpp" "CMakeFiles/Renderer.dir/src/Scene.cpp.o" "gcc" "CMakeFiles/Renderer.dir/src/Scene.cpp.o.d"
+  "/home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/Vector.cpp" "CMakeFiles/Renderer.dir/src/Vector.cpp.o" "gcc" "CMakeFiles/Renderer.dir/src/Vector.cpp.o.d"
+  "/home/syswea/Workspace/Graphics/PathTracingUsingCpp/src/main.cpp" "CMakeFiles/Renderer.dir/src/main.cpp.o" "gcc" "CMakeFiles/Renderer.dir/src/main.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
